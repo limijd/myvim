@@ -1,3 +1,7 @@
+#[submodule "pyflakes-pathogen"]
+set mod = dot.vim/pyflakes-pathogen
+set url = https://github.com/mitechie/pyflakes-pathogen.git
+git submodule add $url $mod
 #[submodule "bundle/fugitive"]
 set mod = dot.vim/bundle/fugitive
 set url = http://github.com/tpope/vim-fugitive.git
@@ -21,10 +25,6 @@ git submodule add $url $mod
 #[submodule "bundle/command-t"]
 set mod = dot.vim/bundle/command-t
 set url = https://github.com/wincent/Command-T.git
-git submodule add $url $mod
-#[submodule "pyflakes-pathogen"]
-set mod = pyflakes-pathogen
-set url = https://github.com/mitechie/pyflakes-pathogen.git
 git submodule add $url $mod
 #[submodule "bundle/ack"]
 set mod = dot.vim/bundle/ack
@@ -65,4 +65,4 @@ git submodule add $url $mod
 #[submodule "bundle/minibufexpl"]
 set mod = dot.vim/bundle/minibufexpl
 set url = https://github.com/fholgado/minibufexpl.vim.git
-#git submodule add $url $mod
+git submodule add $url $mod

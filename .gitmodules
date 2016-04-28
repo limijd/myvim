@@ -46,3 +46,6 @@
 [submodule "dot.vim/bundle/ropevim"]
 	path = dot.vim/bundle/ropevim
 	url = https://github.com/klen/rope-vim.git
+[submodule "dot.vim/pyflakes-pathogen"]
+	path = dot.vim/pyflakes-pathogen
+	url = https://github.com/mitechie/pyflakes-pathogen.git
