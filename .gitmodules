@@ -1,0 +1,51 @@
+[submodule "dot.vim/bundle/minibufexpl"]
+	path = dot.vim/bundle/minibufexpl
+	url = https://github.com/fholgado/minibufexpl.vim.git
+[submodule "dot.vim/bundle/fugitive"]
+	path = dot.vim/bundle/fugitive
+	url = http://github.com/tpope/vim-fugitive.git
+[submodule "dot.vim/bundle/snipmate"]
+	path = dot.vim/bundle/snipmate
+	url = https://github.com/msanders/snipmate.vim.git
+[submodule "dot.vim/bundle/surround"]
+	path = dot.vim/bundle/surround
+	url = https://github.com/tpope/vim-surround.git
+[submodule "dot.vim/bundle/git"]
+	path = dot.vim/bundle/git
+	url = https://github.com/tpope/vim-git.git
+[submodule "dot.vim/bundle/supertab"]
+	path = dot.vim/bundle/supertab
+	url = https://github.com/ervandew/supertab.git
+[submodule "dot.vim/bundle/command-t"]
+	path = dot.vim/bundle/command-t
+	url = https://github.com/wincent/Command-T.git
+[submodule "pyflakes-pathogen"]
+	path = pyflakes-pathogen
+	url = https://github.com/mitechie/pyflakes-pathogen.git
+[submodule "dot.vim/bundle/ack"]
+	path = dot.vim/bundle/ack
+	url = https://github.com/mileszs/ack.vim.git
+[submodule "dot.vim/bundle/gundo"]
+	path = dot.vim/bundle/gundo
+	url = https://github.com/sjl/gundo.vim.git
+[submodule "dot.vim/bundle/pydoc"]
+	path = dot.vim/bundle/pydoc
+	url = https://github.com/fs111/pydoc.vim.git
+[submodule "dot.vim/bundle/pep8"]
+	path = dot.vim/bundle/pep8
+	url = https://github.com/vim-scripts/pep8.git
+[submodule "dot.vim/bundle/py.test"]
+	path = dot.vim/bundle/py.test
+	url = https://github.com/alfredodeza/pytest.vim.git
+[submodule "dot.vim/bundle/makegreen"]
+	path = dot.vim/bundle/makegreen
+	url = https://github.com/reinh/vim-makegreen
+[submodule "dot.vim/bundle/tasklist"]
+	path = dot.vim/bundle/tasklist
+	url = https://github.com/vim-scripts/TaskList.vim.git
+[submodule "dot.vim/bundle/nerdtree"]
+	path = dot.vim/bundle/nerdtree
+	url = https://github.com/vim-scripts/The-NERD-tree.git
+[submodule "dot.vim/bundle/ropevim"]
+	path = dot.vim/bundle/ropevim
+	url = https://github.com/klen/rope-vim.git
